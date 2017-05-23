@@ -1,0 +1,197 @@
+header{
+	width: 100%;
+	height: 90px;
+	background: #d5c9bd;
+}
+header div{
+	width: 353px;
+	height: 90px;
+	margin: 0 auto;
+}
+nav{
+	width: 100%;
+	height: 50px;
+	background: #462327;
+	margin-bottom: 30px;
+}
+nav ul{
+	width: 900px;
+	height: 50px;
+	margin: 0 auto;
+}
+nav ul li{
+	width: 100px;
+	height: 50px;
+	float: left;
+	line-height: 50px;
+	text-align: center;
+	font-size: 16px;	
+}
+nav ul li a{
+	color: #ffa265;
+}
+.shouye a{
+	color: #ffd7bc;
+}
+nav ul li div{
+	width:5px;
+	height: 5px;
+	border-radius: 50%;
+	background: #ffa265;
+	float: left;
+	margin-top: 23px;
+	margin-left: 10px;
+}
+.tu{
+	width: 1200px;
+	height: 130px;
+	margin: 0 auto;
+	margin-bottom: 35px;
+}
+.qiehuan{
+	width: 220px;
+	height: 25px;
+	margin-left: 84px;
+	margin-bottom: 45px;
+}
+.qiehuan div{
+	float: left;
+	margin-right: 2px;
+	line-height: 25px;
+}
+.ye{
+	color: #8f8f8f;
+}
+.hu{
+	color: #462327;
+}
+.jing{
+	width: 100%;
+	height: 520px;
+	background: url('../img/jiameng2.png') no-repeat center center;
+	margin-bottom: 124px;
+}
+.lo1{
+	width: 346px;
+	height: 85px;
+	margin: 0 auto;
+	margin-bottom: 74px;
+}
+.wenhua{
+	width: 1025px;
+	height: 354px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.neirong{
+	width: 1204px;
+	height: 496px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+.neirong li{
+	width: 390px;
+	height: 496px;
+	float: left;
+	margin-left:10px;
+}
+.s{
+	width: 390px;
+	height: 240px;
+	margin-bottom:10px;
+}
+.x{
+	width: 390px;
+	height: 240px;
+}
+.zhanshi{
+	width: 1204px;
+	height: 320px;
+	margin: 0 auto;
+	margin-bottom:50px;
+}
+.zhanshi div{
+	width: 586px;
+	height: 320px;
+	float: left;
+}
+.zsz{
+	margin-right: 10px;
+}
+.women{
+	width: 100%;
+	height: 700px;
+	margin-bottom:50px;
+}
+.wenzi{
+	width: 100%;
+	height: 124px;
+}
+.wenzi div{
+	width: 500px;
+	height: 20px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.erweima{
+	width: 149px;
+	height: 149px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+.wzz{
+	width: 305px;
+	height: 30px;
+	margin: 0 auto;
+	color: #462327;
+	margin-bottom: 50px;
+}
+footer{
+	width: 100%;
+	height: 320px;
+	background: #462327;
+	overflow: hidden;
+}
+.dianji{
+	width: 330px;
+	height: 58px;
+	margin: 0 auto;
+	margin-top: 91px;
+	margin-bottom: 50px;
+}
+.dianji a{
+	float: left;
+}
+.qq{
+	width: 64px;
+	height: 58px;
+	margin-right: 60px;
+}
+.wx{
+	width: 85px;
+	height: 58px;
+	margin-right: 56px;
+}
+.xl{
+	width: 64px;
+	height: 58px;
+}
+footer .zhong{
+	width: 712px;
+	height: 20px;
+	margin: 0 auto;
+	margin-bottom: 14px;
+}
+footer .zhong span{
+	font-size: 16px;
+	color: #fff;
+}
+footer .xia{
+	width: 610px;
+	height: 16px;
+	margin: 0 auto;
+}
+footer .xia span{
+	font-size: 16px;
+	color: #fff;
+}

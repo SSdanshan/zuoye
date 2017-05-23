@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none; 去掉ul、ui、ol中的默认
+}
+a{
+	text-decoration: none;
+}
+body{
+	font-family: "微软雅黑"；
+}
+img{
+	width: 100%;
+	height: 100%;
+}

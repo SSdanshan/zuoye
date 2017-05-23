@@ -1,0 +1,237 @@
+body{
+	background: #d5c9bd;
+}
+header{
+	width: 100%;
+	height: 90px;
+	background: #d5c9bd;
+}
+header div{
+	width: 353px;
+	height: 90px;
+	margin: 0 auto;
+}
+nav{
+	width: 100%;
+	height: 50px;
+	background: #462327;
+}
+nav ul{
+	width: 900px;
+	height: 50px;
+	margin: 0 auto;
+}
+nav ul li{
+	width: 100px;
+	height: 50px;
+	float: left;
+	line-height: 50px;
+	text-align: center;
+	font-size: 16px;	
+}
+nav ul li a{
+	color: #ffa265;
+}
+.shouye a{
+	color: #ffd7bc;
+}
+nav ul li div{
+	width:5px;
+	height: 5px;
+	border-radius: 50%;
+	background: #ffa265;
+	float: left;
+	margin-top: 23px;
+	margin-left: 40px;
+}
+.banner{
+	width: 100%;
+	height: 650px;
+	position: relative;
+}
+.bantu{
+	width: 100%;
+	height: 650px;
+	position: absolute;
+	top: 0;left: 0;
+}
+.zb{
+	width: 25px;
+	height: 55px;
+	background:url("../img/focus_lr0918.png")no-repeat -2px -5px;
+	position: absolute;
+	top: 294px;
+	left: 227px;
+}
+.yb{
+	width: 25px;
+	height: 55px;
+	background: url("../img/focus_lr0918.png")no-repeat -60px -5px;
+	position: absolute;
+	top: 294px;
+	right: 227px;
+}
+.db{
+	width: 100px;
+	height: 10px;
+	position: absolute;
+	left: 0;right: 0;
+	top: 630px;
+	margin: auto;
+}
+.yuan{
+	width: 10px;
+	height: 10px;
+	background: white;
+	border-radius: 50%;
+	float: left;
+	margin-right: 20px;
+}
+.tu1{
+	width: 100%;
+	height: 688px;
+	background: url('../img/tu1.png') no-repeat center center;
+}
+.s1{
+	width: 100%;
+	height: 1294px;
+	background: #d5c9bd;
+	overflow: hidden;
+}
+.ss1{
+	width: 385px;
+	height: 82px;
+	margin: 0 auto;
+	margin-top: 147px;
+	margin-bottom: 60px;
+}
+.ss2{
+	width: 1200px;
+	height: 556px;
+	margin: 0 auto;
+	transition: all 0.2s linear 0s;
+	margin-bottom: 36px;
+}
+.ss2:hover{
+	transform: translate(0,-2px);
+	box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.2) ;
+}
+.ss3{
+	width: 589px;
+	height: 60px;
+	margin: 0 auto;
+	margin-bottom: 200px;
+}
+.ss3-1{
+	width: 100%;
+	height: 20px;
+	margin-bottom: 24px;
+}
+.ss3-1 .tiao{
+	width: 6px;
+	height: 100%;
+	background: #f24a48;
+	float: left;
+	margin-right:4px; 
+}
+.ss3-1 .zi{
+	width: 580px;
+	height: 100%;
+	font-size: 16px;
+	line-height: 20px;
+	color: #4a282b;
+}
+.ss3-2{
+	width: 302px;
+	height: 16px;
+	margin: 0 auto;
+	color: #4a282b;
+}
+.ss4{
+	width: 385px;
+	height: 82px;
+	margin: 0 auto;
+}
+.tu3{
+	width: 100%;
+	height: 663px;
+	background: url('../img/tu3.png') no-repeat center center;
+	margin-bottom: 162px;
+}
+.fenlei{
+	width: 358px;
+	height: 83px;
+	margin: 0 auto;
+	margin-bottom: 104px;
+}
+.chanpin{
+	width: 1006px;
+	height: 457px;
+	margin: 0 auto;
+	margin-bottom: 158px;
+}
+.chanpin a{
+	width: 33.333333%;
+	height: 100%;
+	float: left;	
+	transition: all 0.2s linear 0s;
+}
+.chanpin a:hover{
+	transform: translate(0,-2px);
+	box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.2) ;
+}
+.tiefu{
+	width: 353px;
+	height: 90px;
+	margin: 0 auto;
+	margin-bottom: 45px;
+}
+footer{
+	width: 100%;
+	height: 320px;
+	background: #462327;
+	overflow: hidden;
+}
+.dianji{
+	width: 330px;
+	height: 58px;
+	margin: 0 auto;
+	margin-top: 91px;
+	margin-bottom: 50px;
+}
+.dianji a{
+	float: left;
+}
+.qq{
+	width: 64px;
+	height: 58px;
+	margin-right: 60px;
+}
+.wx{
+	width: 85px;
+	height: 58px;
+	margin-right: 56px;
+}
+.xl{
+	width: 64px;
+	height: 58px;
+}
+.zhong{
+	width: 712px;
+	height: 20px;
+	margin: 0 auto;
+	margin-bottom: 14px;
+}
+.zhong span{
+	font-size: 16px;
+	color: #fff;
+}
+.xia{
+	width: 610px;
+	height: 16px;
+	margin: 0 auto;
+}
+.xia span{
+	font-size: 16px;
+	color: #fff;
+}
